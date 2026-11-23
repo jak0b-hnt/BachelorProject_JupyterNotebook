@@ -1,0 +1,2 @@
+# BachelorProject_JupyterNotebook
+Neuro-Prothesis Challenge JupyterNotebook
